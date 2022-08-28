@@ -4,5 +4,3 @@ This is a simple e-commerce website built with Django. It contains the essential
 online.
 
 ---
-
-<div align="center">
